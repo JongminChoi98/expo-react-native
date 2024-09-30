@@ -2,6 +2,20 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+# Version
+
+1. React Natvie:
+
+   ```
+   0.74.5
+   ```
+
+2. expo:
+
+   ```
+   ~51.0.28
+   ```
+
 ## Get started
 
 1. Install dependencies
